@@ -43,8 +43,8 @@ Instantiating such an object is simple:
 
 ```ruby
 credit_card = ActiveMerchant::Billing::CreditCard.new(
-  :first_name         => 'Steve',
-  :last_name          => 'Smith',
+  :first_name         => 'Md shakil',
+  :last_name          => 'Molla',
   :month              => '9',
   :year               => '2022',
   :brand              => 'visa',
